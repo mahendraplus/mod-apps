@@ -1,0 +1,113 @@
+while :
+do
+curl 'https://m4u-yt.blogspot.com/2021/05/custom-error-for-nginx-server.html?m=1' \
+  -H 'authority: m4u-yt.blogspot.com' \
+  -H 'cache-control: max-age=0' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Mobile Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'referer: https://m4u-yt.blogspot.com/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _ga=GA1.3.1403648389.1620550065; grid_view=expand' \
+  --compressed
+curl 'https://m4u-yt.blogspot.com/2021/05/bash-script-simple-example-for-beginners.html?m=1' \
+  -H 'authority: m4u-yt.blogspot.com' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Mobile Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'referer: https://m4u-yt.blogspot.com/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _ga=GA1.3.1403648389.1620550065; grid_view=expand' \
+  --compressed
+curl 'https://m4u-yt.blogspot.com/2021/05/how-to-setup-nginx-server-on-linux.html?m=1' \
+  -H 'authority: m4u-yt.blogspot.com' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Mobile Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'referer: https://m4u-yt.blogspot.com/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _ga=GA1.3.1403648389.1620550065; grid_view=expand' \
+  --compressed
+curl 'https://m4u-yt.blogspot.com/?m=1' \
+  -H 'authority: m4u-yt.blogspot.com' \
+  -H 'cache-control: max-age=0' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Mobile Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'referer: https://m4u-yt.blogspot.com/2021/05/how-to-setup-nginx-server-on-linux.html' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _ga=GA1.3.1403648389.1620550065; grid_view=expand' \
+  -H 'if-none-match: W/"2cbf7aa12e3f47b809d103535338e23157deee0a6f8f950c03cf2d4ab14a5274"' \
+  -H 'if-modified-since: Mon, 10 May 2021 13:21:38 GMT' \
+  --compressed
+curl 'https://m4u-yt.blogspot.com/p/sitemap.html?m=1' \
+  -H 'authority: m4u-yt.blogspot.com' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Mobile Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'referer: https://m4u-yt.blogspot.com/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _ga=GA1.3.1403648389.1620550065; grid_view=expand' \
+  --compressed
+curl 'https://m4u-yt.blogspot.com/p/disclaimer.html?m=1' \
+  -H 'authority: m4u-yt.blogspot.com' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Mobile Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'referer: https://m4u-yt.blogspot.com/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _ga=GA1.3.1403648389.1620550065; grid_view=expand' \
+  --compressed
+curl 'https://m4u-yt.blogspot.com/p/privacy-policy.html?m=1' \
+  -H 'authority: m4u-yt.blogspot.com' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Mobile Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'referer: https://m4u-yt.blogspot.com/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _ga=GA1.3.1403648389.1620550065; grid_view=expand' \
+  --compressed
+
+done
